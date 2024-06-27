@@ -162,3 +162,7 @@ cython_debug/
 #.idea/
 *.xml
 *.iml
+
+
+# Don't expose private plus public keys for security
+*.pem
